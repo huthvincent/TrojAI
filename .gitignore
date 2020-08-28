@@ -1,0 +1,15 @@
+.idea
+output.txt
+batch_run.py
+
+# Python
+__pychache__
+*.pyc
+*.simg
+*.sif
+*.log 
+*.out
+
+token.pickle
+output/*
+scratch/*
